@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_nhanvien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_nhanvien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_mathang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_mathang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_khachhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_khachhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_dangnhap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_dangnhap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_dangky.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_dangky.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_baocao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_baocao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_banhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_banhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_nhanvien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_nhanvien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_banhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_banhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_mathang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_mathang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_khachhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_khachhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_dangky.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_dangky.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|c:\\users\\admin\\desktop\\t\u00FA\\quanlybanhangvb_new\\quanlybanhangvb\\quanlybanhangvb\\f_dangnhap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DDBE487-1FFA-4E94-8FBA-78A67BDADE81}|QuanLyBanHangVB\\QuanLyBanHangVB.vbproj|solutionrelative:quanlybanhangvb\\f_dangnhap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "F_KhachHang.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_KhachHang.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_KhachHang.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_KhachHang.vb [Design]",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_KhachHang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T13:16:12.022Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "F_Main.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_Main.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_Main.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_Main.vb [Design]",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_Main.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T13:16:43.613Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_MatHang.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_MatHang.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_MatHang.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_MatHang.vb [Design]",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_MatHang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T13:17:09.971Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_NhanVien.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_NhanVien.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_NhanVien.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_NhanVien.vb [Design]",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_NhanVien.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T13:33:10.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "F_DangNhap.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_DangNhap.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_DangNhap.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_DangNhap.vb [Design]",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_DangNhap.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T13:15:44.356Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "F_DangKy.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_DangKy.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_DangKy.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_DangKy.vb [Design]",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_DangKy.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T13:15:16.144Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "F_BaoCao.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_BaoCao.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_BaoCao.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_BaoCao.vb [Design]",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_BaoCao.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T04:31:02.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "F_BanHang.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_BanHang.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_BanHang.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_BanHang.vb [Design]",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_BanHang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T04:26:09.104Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "F_Main.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_Main.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_Main.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_Main.vb",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_Main.vb",
+              "ViewState": "AgIAACsAAAAAAAAAAAAxwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T18:44:31.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "F_BanHang.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_BanHang.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_BanHang.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_BanHang.vb",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_BanHang.vb",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAgwMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T03:44:33.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "F_MatHang.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_MatHang.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_MatHang.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_MatHang.vb",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_MatHang.vb",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAwNQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T18:33:08.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "F_NhanVien.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_NhanVien.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_NhanVien.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_NhanVien.vb",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_NhanVien.vb",
+              "ViewState": "AgIAANQAAAAAAAAAAADwv+cAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T18:42:04.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "F_KhachHang.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_KhachHang.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_KhachHang.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_KhachHang.vb",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_KhachHang.vb",
+              "ViewState": "AgIAAMEAAAAAAAAAAADwv9EAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T18:30:41.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "F_DangKy.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_DangKy.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_DangKy.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_DangKy.vb",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_DangKy.vb",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T18:28:58.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "F_DangNhap.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_DangNhap.vb",
+              "RelativeDocumentMoniker": "QuanLyBanHangVB\\F_DangNhap.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\t\u00FA\\QuanLyBanHangVB_new\\QuanLyBanHangVB\\QuanLyBanHangVB\\F_DangNhap.vb",
+              "RelativeToolTip": "QuanLyBanHangVB\\F_DangNhap.vb",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T18:24:17.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
